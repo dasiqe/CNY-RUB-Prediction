@@ -17,7 +17,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone <https://github.com/dasiqe/CNY-RUB-Prediction.git>
+   git clone https://github.com/dasiqe/CNY-RUB-Prediction.git
    ```
    
 2. Установите зависимости:
