@@ -16,17 +16,23 @@
 
 1. Клонируйте репозиторий:
 
+   ```bash
    git clone <https://github.com/dasiqe/CNY-RUB-Prediction.git>
-
+   ```
+   
 2. Установите зависимости:
 
+   ```bash
    pip install -r requirements.txt
-
+   ```
+   
 ## Запуск проекта
 
 Для запуска выполните команду:
 
+```bash
 python cny_rub_prediction.py
+```
 
 ## Зависимости
 
